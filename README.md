@@ -1,2 +1,2 @@
-# skimming-note-markdown
-the note of skimming paper from arxiv.org everyday
+# note-markdown
+the note of paper from arxiv.org everyday
