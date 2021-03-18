@@ -146,3 +146,32 @@ rational lens model
 * Stokes line : generic features of many lens models, regions in parameter space where imaginary images begin to contribute to the overall intensity modulation of lensed sources.
 * extreme scattering events (ESEs): radio sources' intensity undergo large, frequency dependent changes, so as pulsars. Lens models were proposed to explain it.
 * Pulsars have been observed to undergo ESEs caused by roughly AU-scale lenses, with electron column densities of order $\sim 0.01 pc\, cm^{-3}$
+
+
+## 2103.09252<br>Improved Contrast in Images of Exoplanets using Direct SNR Optimization
+### home message
+##### work:
+处理SNR图片的<br>
+
+##### conclusion:
+
+##### problem:
+
+### note
+* PSF: point spread function<br>
+
+## 2103.09248<br>RX J0529.8-6556: a BeXRB pulsar with an evolving optical period and out of phase X-ray outbursts
+### home message
+##### work:
+* details about the analysis of the X-ray data collected during the 2020 X-ray outburst.
+* investigate the long-term variability of the system using archival X-ray data obtained by Swift and XMM-Newton.
+
+##### conclusion:
+* during the decay of the June 2020 outburst, when the luminosity had only decreased by $/sim 35%$ , the pulse profile morphology had clearly changed.
+* an anisotropic accretion mechanism was needed to explain the observed X-ray pulsations.
+* observational effects of LXP 69.5 could be consistent with the Be disc plane and orbital plane being misaligned.
+
+### note
+* High-mass X-ray binaries (HMXBs)= a WD/NS/BH + an O-/B-star. a sub-class are Be/X-ray binaries (BeXRBs).
+* The Be disc is the source of emission lines and infrared excess that set Be
+stars apart from ordinary O/B-stars
