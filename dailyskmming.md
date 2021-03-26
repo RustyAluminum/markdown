@@ -167,7 +167,7 @@ rational lens model
 * investigate the long-term variability of the system using archival X-ray data obtained by Swift and XMM-Newton.
 
 ##### conclusion:
-* during the decay of the June 2020 outburst, when the luminosity had only decreased by $/sim 35%$ , the pulse profile morphology had clearly changed.
+* during the decay of the June 2020 outburst, when the luminosity had only decreased by $\sim 35\%$ , the pulse profile morphology had clearly changed.
 * an anisotropic accretion mechanism was needed to explain the observed X-ray pulsations.
 * observational effects of LXP 69.5 could be consistent with the Be disc plane and orbital plane being misaligned.
 
@@ -175,3 +175,18 @@ rational lens model
 * High-mass X-ray binaries (HMXBs)= a WD/NS/BH + an O-/B-star. a sub-class are Be/X-ray binaries (BeXRBs).
 * The Be disc is the source of emission lines and infrared excess that set Be
 stars apart from ordinary O/B-stars
+
+
+## 2103.13180<br>The slow rise and recovery of the 2019 Crab pulsar glitch
+### home message
+##### work:
+![Table of pulsar/glitch parameters](F:/astroph/paper/paper/202103/graph/2103.13180.png "pulsar/glitch parameters")
+delayed spin-up
+##### conclusion:
+* fluidcrust coupling models
+* no delayed spin-up was identified near the small Crab pulsar glitch of 1997
+
+
+##### problem:
+
+### note
