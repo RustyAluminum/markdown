@@ -6,7 +6,7 @@
 
 ##### conclusion:
 
-##### problem:
+##### method:
 
 ### note
 
@@ -123,12 +123,7 @@ PION的并行适用于mhd（不考虑辐射转移）<br>
 ## 2103.09142v1<br>The morphology of the X-ray afterglows and of the jetted GeV emission in long GRBs
 ### home message
 ##### work:
-* 记录378个源，4个prototypes GRBs 130427A, 160509A, 180720B, 190114C的光谱，光度，SN-rise duration，$A_X,\alpha_X$，$\nu$ NS spin time-evolution
-
-
-##### conclusion:
-
-##### problem:
+* 记录378个源，4个prototypes GRBs 130427A, 160509A, 180720B, 190114C的光谱，光度，SN-rise duration，$A_X,\alpha_X$，$\nu$ NS spin time-evolution<br>
 
 
 ## 2103.08687v1<br>Imaginary images and Stokes phenomena in the weak plasma lensing of coherent sources
@@ -153,12 +148,9 @@ rational lens model
 ##### work:
 处理SNR图片的<br>
 
-##### conclusion:
-
-##### problem:
-
 ### note
 * PSF: point spread function<br>
+
 
 ## 2103.09248<br>RX J0529.8-6556: a BeXRB pulsar with an evolving optical period and out of phase X-ray outbursts
 ### home message
@@ -180,13 +172,27 @@ stars apart from ordinary O/B-stars
 ## 2103.13180<br>The slow rise and recovery of the 2019 Crab pulsar glitch
 ### home message
 ##### work:
-![Table of pulsar/glitch parameters](F:/astroph/paper/paper/202103/graph/2103.13180.png "pulsar/glitch parameters")
+![Table of pulsar/glitch parameters](F:/astroph/paper/paper/202103/graph/2103.13180.png "pulsar/glitch parameters")<br>
 delayed spin-up
 ##### conclusion:
 * fluidcrust coupling models
 * no delayed spin-up was identified near the small Crab pulsar glitch of 1997
+<br>
 
+## 2103.14042<br>Resonant Dynamical Friction in Nuclear Star Clusters: Rapid Alignment of an Intermediate Mass Black Hole with a Stellar Disk
+### home message
+##### work:
+* 研究IMBH的轨道快速重定向的动力学机制 (即 resonant dynamical friction RDF)，以回应关于 lower mass stars 带动SMBH在a disk configuration的分布问题.
+* investigate how an IMBH settles into the midplane of a stellar disk, such as the clockwise disk around Sgr $A^\star$ in the Galactic Center.
+* run simulations using $\varphi$ GPU N-bod code to solve equations of motions of point particles with gravitational softening.run N-RING
 
-##### problem:
+##### conclusion:
+* theory: 
+$t_{align,CDF}=\frac{2sin\iota sin^3(\iota/2)}{(2-\gamma)ln \Lambda}\left(\frac{r}{r_d}\right)^{\gamma-2}\frac{m^2_{SMBH}}{m_dm_{IMBH}}t_{orb}=\frac{2sin\iota sin^3(\iota/2)}{ln \Lambda}\frac{m^2_{SMBH}}{m_dm_{IMBH}}t_{orb}$ an upper limit for the true alignment time for several reasons<br>
+$m_{d,loc}=\frac{dm}{d ln r}=\int 2\pi r^2 \rho dz=(2-\gamma)\left(\frac{r}{r_d}\right)^{2-\gamma}m_d$<br>
+$\gamma=0.75,1.75$
+* numerical results
 
 ### note
+* Chandrasekhar's (ordinary non-resonant) dynamical friction (CDF)
+* resonant dynamical friction (RDF)
