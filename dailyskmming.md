@@ -216,5 +216,22 @@ SNR G272.2-3.2: <br>
 
 * about 1800 years old, plasma temperature $10^7 K$, non-shell-like, nebulosity exists features of SNR filament, measured \[S II\]$H_\alpha$
 * X-ray emission: showed a thermal feature. a brighter X-ray SNR, X-ray band centrally filled. NIE model
-* radio band: a non-thermal feature, spectral index of 0.55$\pm$0.15, similar to a circular, to the morphology of the X-ray band
-* 
+* radio band: a non-thermal feature, spectral index of 0.55$\pm$0.15, similar to a circular, to the morphology of the X-ray band.<br>
+
+
+
+## 2103.15869<br>A Lack of Evidence for Global Ram-pressure Induced Star Formation in the Merging Cluster Abell 3266
+### home message
+##### work:
+* calculate the local gas density for each galaxy
+* X-ray observations.
+* the properties of ram pressure and H$\beta$ equivalent width are examined for 177 galaxies located in the merging galaxy cluster Abell 3266.
+
+##### conclusion:
+* the gas density is higher toward the center, and lower in the outskirts.
+* in a cluster merger, there is an asymmetry in the X-ray surface brightness.
+* seen by observing the histogram, the galaxies experience a large range of ram pressure.
+
+### note
+* ram-pressure stripping (RPS)
+* Abell 3266 is a galaxy cluster located in the Southern Hemisphere at 4h31m24.1s, $-61_.^d 26_.^m 38.0fs$ (J2000) at a redshift of z=0.0594.<br>
